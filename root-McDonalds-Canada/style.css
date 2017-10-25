@@ -131,7 +131,7 @@ h3{
 #content{
 	margin-top:0px;
 	padding-top:30px;
-	background:url(Images/content/1.jpg) no-repeat;
+	background:url(Images/content/1.JPG) no-repeat;
 	height:500px;
 	background-size:cover;
 	background-position:50% 10%;
@@ -189,7 +189,7 @@ h3{
 #contenttwo{
 	margin-top:0px;
 	padding-top:30px;
-	background:url(Images/content/2.jpg) no-repeat;	
+	background:url(Images/content/2.JPG) no-repeat;	
 	background-size:cover;
 	height:500px;
 	border-bottom:#ffc600 solid 10px;
@@ -198,7 +198,7 @@ h3{
 #contentthree{
 	margin-top:0px;
 	padding-top:30px;
-	background:url(Images/content/3.jpg) no-repeat;	
+	background:url(Images/content/3.JPG) no-repeat;	
 	background-size:cover;
 	height:500px;
 	border-bottom:#ffc600 solid 10px;
