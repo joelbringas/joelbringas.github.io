@@ -10,7 +10,7 @@ body{
 .container{
 	width:1024px;
 	margin:0 auto;
-}	
+}
 
 h1{
 	color:#000;
@@ -69,13 +69,13 @@ h3{
 	margin-top:30px;
 	padding:0;
 	display:inline-block;
-	
+
 }
 
 #menu ul {
 	list-style: none;
 	padding: 0px;
-	margin: 0px;	
+	margin: 0px;
 }
 
 #menu li:hover ul {
@@ -111,7 +111,7 @@ h3{
 
 #menu li ul a:hover{
 	color:#cf102d;
-	
+
 }
 
 #menu li ul li {
@@ -131,7 +131,7 @@ h3{
 #content{
 	margin-top:0px;
 	padding-top:30px;
-	background:url(Images/content/1.JPG) no-repeat;
+	background:url(images/content/1.JPG) no-repeat;
 	height:500px;
 	background-size:cover;
 	background-position:50% 10%;
@@ -189,7 +189,7 @@ h3{
 #contenttwo{
 	margin-top:0px;
 	padding-top:30px;
-	background:url(Images/content/2.JPG) no-repeat;	
+	background:url(images/content/2.JPG) no-repeat;
 	background-size:cover;
 	height:500px;
 	border-bottom:#ffc600 solid 10px;
@@ -198,7 +198,7 @@ h3{
 #contentthree{
 	margin-top:0px;
 	padding-top:30px;
-	background:url(Images/content/3.JPG) no-repeat;	
+	background:url(images/content/3.JPG) no-repeat;	
 	background-size:cover;
 	height:500px;
 	border-bottom:#ffc600 solid 10px;
